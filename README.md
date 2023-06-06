@@ -1,2 +1,2 @@
-# hello-world
+# PracticaFacultate
 My first repository on GitHub.
